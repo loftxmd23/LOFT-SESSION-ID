@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363200367779016@newsletter',
-                                    newsletterName: 'SILVA SESSION GEN 💖',
+                                    newsletterName: 'LOFT SESSION 🚀🚀',
                                     serverMessageId: 143
                                 }
                             }
@@ -130,19 +130,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with LOFT XMD *
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/loftxmd23/loft-xmd-s24 
 
 *💭 Need help? Join our support groups:*
 📢 💬
 https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
+🪄 YouTube Channel https://www.youtube.com/@loftxmd
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by Loft Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -159,8 +159,8 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363200367779016@newsletter',
-                                    newsletterName: 'SILVA SESSION GEN 💖',
+                                    newsletterJid: '120363398106360290@newsletter',
+                                    newsletterName: 'LOFT SESSION GEN 🚀🚀',
                                     serverMessageId: 143
                                 }
                             }

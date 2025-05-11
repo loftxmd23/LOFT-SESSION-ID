@@ -27,8 +27,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-            email: 'shaddyshaddy047@gmail.com',
-            password: 'nakupendaaaaaaaaaa'
+            email: 'mickidadyhamza@gmail.com',
+            password: 'Mickeydady24@'
         }).ready;
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'Silva~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'loft~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -130,19 +130,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with LOFT XMD *
+*💪 Empowering Your Experience with LOFT XMD*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/loftxmd23/loft-xmd-s24 
+🔗 'https://github.com/LOFTXMD23/LOFT-XMD-S24 
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
+
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@loftxmd
 
-*🥀 Powered by Loft Tech Inc 🥀*
+
+*🥀 Powered by LOFT Inc 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -160,7 +160,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363398106360290@newsletter',
-                                    newsletterName: 'LOFT SESSION GEN 🚀🚀',
+                                    newsletterName: 'LOFT SESSION  🚀🚀',
                                     serverMessageId: 143
                                 }
                             }
